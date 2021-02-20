@@ -1,0 +1,31 @@
+.nav-link {
+  color: black;
+}
+.img {
+  width: 500px;
+  height: 350px;
+}
+
+.heading {
+  font-family: "PT Serif", serif;
+}
+
+.section {
+  margin-top: 150px;
+  margin-bottom: 130px;
+}
+
+.sections {
+  margin-top: 70px;
+  margin-bottom: 60px;
+  margin-right: 200px;
+  margin-left: 200px;
+}
+
+.sectionss {
+  margin-top: 70px;
+  margin-bottom: 60px;
+  margin-right: 150px;
+  margin-left: 150px;
+  background-color: #696969;
+}
