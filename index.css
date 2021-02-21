@@ -1,3 +1,7 @@
+.navbar:hover {
+  background-color: white;
+}
+
 .nav-link {
   color: black;
 }
@@ -8,6 +12,12 @@
 
 .heading {
   font-family: "PT Serif", serif;
+}
+
+.lg-heading {
+  font-size: 50px;
+  font-family: "PT Serif", serif;
+  margin: 0px 300px;
 }
 
 .section {
@@ -23,9 +33,56 @@
 }
 
 .sectionss {
-  margin-top: 70px;
+  margin-top: 100px;
   margin-bottom: 60px;
   margin-right: 150px;
   margin-left: 150px;
   background-color: #696969;
+}
+
+.third-sect {
+  margin-left: 145px;
+  margin-right: 150px;
+}
+
+.third-sect-articles {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.text-info {
+  text-decoration: none;
+}
+
+.fourth-sect-article {
+  background-color: #f0edec;
+  padding: 50px 200px;
+}
+
+.customer-since-img {
+  margin: 50px 50px;
+}
+
+.four-sect {
+  padding: 50px 200px;
+}
+
+.fifth-sect {
+  background-color: #e8e7d3;
+  padding: 100px 145px;
+}
+
+.fifthh {
+  margin-top: 150px;
+  margin-bottom: 00px;
+}
+
+.half-img {
+  background: linear-gradient(to bottom, #e8e7d3 50%, white 0%);
+}
+.half-imgg {
+  background: linear-gradient(to bottom, #f0edec 50%, white 0%);
+}
+
+.m-heading {
 }
