@@ -20,6 +20,11 @@
   margin: 0px 300px;
 }
 
+.lg2-heading {
+  font-size: 50px;
+  font-family: "PT Serif", serif;
+}
+
 .section {
   margin-top: 150px;
   margin-bottom: 130px;
@@ -50,6 +55,10 @@
   margin-bottom: 100px;
 }
 
+.report-art {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
 .text-info {
   text-decoration: none;
 }
@@ -85,4 +94,31 @@
 }
 
 .m-heading {
+  margin: 0px 300px;
+}
+
+.report {
+  background-color: #ffe6ff;
+  padding-top: 150px;
+  padding-bottom: 90px;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+
+.report-2 {
+  border: 1px solid black;
+  padding-left: 50px;
+  text-decoration: none;
+  padding-top: 40px;
+}
+
+.report-h {
+  font-size: 20px;
+  font-family: "PT Serif", serif;
+}
+
+.courier {
+  background-image: url("img/Staying_Resilient_in_2021.jpg");
+  height: 400px;
+  width: 300px;
 }
